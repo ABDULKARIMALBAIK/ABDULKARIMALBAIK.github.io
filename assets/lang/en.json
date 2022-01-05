@@ -1,0 +1,100 @@
+{
+  "application_name": "PortfolioME",
+
+  "home_header_welcome": "Welcome to my portfolio",
+
+  "home_header_firstName": "ABDULKARIM",
+  "home_header_lastName": "ALBAIK",
+  "home_header_services1": "Flutter Developer",
+  "home_header_services2": "Flutter Package Publisher",
+  "home_header_services3": "Android Developer",
+  "home_header_services4": "Node.js Developer",
+  "home_header_div1": "<FlutterWeb>",
+  "home_header_div2": "</FlutterWeb>",
+  "home_header_div3": "This website is made by flutter.",
+
+
+
+  "home_about_title": "About Me",
+  "home_about_subtitle1": "Hi there , I am ABDULKARIM ALBAIK, a Flutter/Android Developer and Node.js Developer.",
+  "home_about_subtitle2": "I have been developing mobile apps for 3 years now , I develop apps with appealing UI and robust performance. I have worked many type of apps (editing photos , AI , Streaming videos , Business apps and more...)",
+  "home_about_subtitle3": "And i have many of certificates (Git , GCP Cloud Computing , Android Native , Engineering Maintainable Android , Data Analyst)",
+  "home_about_subtitle4": "Also i have CS Degree from university of Aleppo (Coming Soon)",
+  "home_about_tech": "Technologies I have worked with :",
+  "home_about_language1": "Java",
+  "home_about_language2": "C#",
+  "home_about_language3": "Flutter",
+  "home_about_language4": "Dart",
+  "home_about_language5": "C++",
+  "home_about_language6": "Javascript",
+
+
+
+
+  "home_certificate_title": "Certificates",
+  "home_certificate_subtitle": "I have 5 certificates and Computer Science is coming soon",
+
+
+
+
+
+  "home_services_title": "Services",
+  "home_services_subtitle": "If you need Apps , I am ready",
+  "home_services_item1_title": "Mobile App Development",
+  "home_services_item1_subtitle": "For now , i can only develop Android apps using Flutter/Java (Kotlin in future) , that is because i don't own MacBook device right now so can't test or debug apps for ios , Hopefully this missing piece will be filled soon",
+  "home_services_item2_title": "Backend Development",
+  "home_services_item2_subtitle": "I can develop backend side by Node.js with using many of tools : uploading files(Multer) , payment(Braintree) , Send mails(Mailtrip) , check captcha (hCaptcha) and security packages(JWT,helmet,cors,express-rate-limit.....) and testing apis by Postman",
+  "home_services_item3_title": "UI/UX Designing",
+  "home_services_item3_subtitle": "I can make a simple designs (Not difficult) for Android Devices and i have made designs to my own apps (Herafi and Hajozat)",
+  "home_services_item4_title": "SQL Queries",
+  "home_services_item4_subtitle": "I have written many and many queries to many of apps like (Herafi , Hajozat and MovieTube) and i can use MySQL and SQL Server",
+
+
+
+
+  "home_skills_title": "Skills",
+  "home_skills_frameworks": "Frameworks",
+  "home_skills_projects_apis": "Projects & APIs",
+  "home_skills_languages": "Languages",
+
+
+
+
+  "home_projects_title": "Projects",
+  "home_projects_subtitle": "There are many and many projects If you want more",
+  "home_projects_button": "See More",
+
+
+
+
+  "home_contacts_title": "Contact",
+  "home_contacts_subtitle": "Let's get in touch and build something together ;)",
+
+
+
+
+  "home_appBar_resume": "Resume",
+  "home_appBar_home": "Home",
+  "home_appBar_about": "About",
+  "home_appBar_certificates": "Certificates",
+  "home_appBar_services": "Services",
+  "home_appBar_skills": "Skills",
+  "home_appBar_projects": "Projects",
+
+  "home_appBar_switch": "Dark Mode",
+
+
+
+  "home_snackBar_thankYouResume": "Thank you to Review my resume , i hope you like it !",
+
+
+
+  "home_rights_title": "© All Rights Reserved by ABDULKARIM ALBAIK",
+
+
+  "templateData_noData": "There isn't any data to display !",
+  "templateData_noInternet": "You are offline now !",
+  "templateData_error": "There is  a problem !",
+  "templateData_load": "Loading...",
+  "templateData_not_found_page": "Page isn't exists"
+}

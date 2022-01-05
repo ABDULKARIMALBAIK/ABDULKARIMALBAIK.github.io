@@ -1,0 +1,96 @@
+{
+  "application_name": "بروفايلي",
+
+  "home_header_welcome": "مرحباً بكم في بروفايلي",
+  "home_header_firstName": "عبد الكريم",
+  "home_header_lastName": "البيك",
+  "home_header_services1": "مطور فلاتر",
+  "home_header_services2": "ناشر مكاتب فلاتر",
+  "home_header_services3": "مطور اندرويد",
+  "home_header_services4": "مطور Node.js",
+  "home_header_div1": "</FlutterWeb>",
+  "home_header_div2": "<FlutterWeb>",
+  "home_header_div3": "هذا الموقع طور بواسطة فلاتر",
+
+
+
+
+  "home_about_title": "عن نفسي",
+  "home_about_subtitle1": "مرحبا، أنا عبد الكريم البيك ، مطور تطبيقات اندرويد/فلاتر و مطور Node.js",
+  "home_about_subtitle2": "أنا كنت أطور تطبيقات موبايل لـ 3 سنين ، أنا طورت تطبيقات ذات تصميم خلاب مع أداء عالي ، أنا عملت على عدة أنواع من التطبيقات (تحرير صور ، ذكاء صنعي ، عرض فيديو ، تطبيثات تجارية و المزيد)",
+  "home_about_subtitle3": "وأنا لدي عدة شهادات (Git ، الحوسبة السحابية من GCP ، هندسة تطبيقات اندريود قابلة للصيانة ، و محلل بيانات)",
+  "home_about_subtitle4": "أيضاً أنا لدي شهادة علوم الحاسب (قادمة قريباً)",
+  "home_about_tech": "التقنيات التي تعاملت معها:",
+  "home_about_language1": "Java",
+  "home_about_language2": "C#",
+  "home_about_language3": "Flutter",
+  "home_about_language4": "Dart",
+  "home_about_language5": "C++",
+  "home_about_language6": "Javascript",
+
+
+
+  "home_certificate_title": "الشهادات",
+  "home_certificate_subtitle": "لدي خمس شهادات و شهادة علوم الحاسب قادمة قريباً",
+
+
+
+
+  "home_services_title": "الخدمات",
+  "home_services_subtitle": "إذا تحتاج تطبيقات ، انا جاهز",
+  "home_services_item1_title": "برمجة تطبيقات الموبايل",
+  "home_services_item1_subtitle": "للآن ، أنا أستطيع تطوير تطبيقات اندرويد فقط بواسطة فلاتر/جافا (كوتلين في المستقبل) ، السبب أنني لا أملك جهاز ماك لاختبار و بناء تطبيقات للأيفون ، آمل أن هذا الفراغ سوف يملئ قريباً",
+  "home_services_item2_title": "برمجة قسم الخلفية",
+  "home_services_item2_subtitle": "أستطيع برمجة قسم الخلفية باستخدام Node.js مع استخدام عدة أدوات: رفع ملفات(Multer) ، دفع الكتروني(Braintree) ، ارسال رسائل(Mailtrip) ، فحص كابتشا(hCaptcha) ، مع مكاتب أمان(JWT،helmet،express-rate-limit،cors...)",
+  "home_services_item3_title": "تصميم UI/UX",
+  "home_services_item3_subtitle": "أنا أستطيع تصميم تصاميم بسيطة (ليست معقدة) لأجهزة الاندرويد وقد صممت بعض منها لتطبيقات أملكها مثل (Herafi ، Hajozat) ",
+  "home_services_item4_title": "استعلامات SQL",
+  "home_services_item4_subtitle": "لقد كتبت العديد و العديد من الاستعلامات لتطبيقات مثل (Herafi و Hajozat و MovieTube) و أستطيع استخدام MySQL و SQL Server",
+
+
+
+
+
+  "home_skills_title": "المهارات",
+  "home_skills_frameworks": "إطارات العمل",
+  "home_skills_projects_apis": "المشاريع و APIs",
+  "home_skills_languages": "اللغات",
+
+
+  "home_projects_title": "المشاريع",
+  "home_projects_subtitle": "هناك العديد و العديد من المشاريع إذا كنت تريد المزيد",
+  "home_projects_button": "شاهد المزيد",
+
+
+
+  "home_contacts_title": "تواصل",
+  "home_contacts_subtitle": "دعنا نكون في تواصل لكي نبني شيء ما معاً",
+
+
+
+
+  "home_appBar_resume": "السيرة الذاتية",
+  "home_appBar_home": "أساسي",
+  "home_appBar_about": "عني",
+  "home_appBar_certificates": "الشهادات",
+  "home_appBar_services": "الخدمات",
+  "home_appBar_skills": "المهارات",
+  "home_appBar_projects": "المشاريع",
+
+  "home_appBar_switch": "نمط المظلم",
+
+
+
+  "home_snackBar_thankYouResume": "شكرا لمراجعة سيرتي الذاتية ، أتمنى أن تنال إعجابكم!",
+
+
+
+  "home_rights_title": "© جميع الحقوق محفوظة بواسطة عبد الكريم البيك",
+
+
+  "templateData_noData": "لا يجد هناك بيانات لعرضها",
+  "templateData_noInternet": "أنت منقطع عن الانترنت الآن",
+  "templateData_error": "هناك مشكلة",
+  "templateData_load": "تحميل...ء",
+  "templateData_not_found_page": "الصفحة غير موجودة"
+}
