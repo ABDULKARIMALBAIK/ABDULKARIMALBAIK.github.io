@@ -16,3 +16,4 @@ This Website has a lot of features like :
 - Confetti Effect and Amazing Snack Bar
 - Blurhash Effect
 - Blob Effect and Animated Text
+- Share Buttons
